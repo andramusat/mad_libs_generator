@@ -12,8 +12,7 @@ Căutarea cuvintelor între paranteze unghiulare: Se parcurge fiecare caracter d
 --> Dacă se găsește un caracter "<", se marchează începutul unui cuvânt.
 --> Dacă se găsește un caracter ">", iar un cuvânt a început anterior, se extrage cuvântul între parantezele unghiulare și se adaugă la setul de cuvinte.
 
-Preluarea răspunsurilor de la utilizator: Se solicită utilizatorului să furnizeze un cuvânt pentru fiecare cuvânt găsit între parantezele 
-unghiulare.
+Preluarea răspunsurilor de la utilizator: Se solicită utilizatorului să furnizeze un cuvânt pentru fiecare cuvânt găsit între parantezele unghiulare.
 --> Răspunsurile utilizatorului sunt stocate într-un dicționar, asociind fiecare cuvânt din setul de cuvinte cu răspunsul corespunzător.
 
 Înlocuirea cuvintelor în poveste: Se parcurge fiecare cuvânt din setul de cuvinte.
